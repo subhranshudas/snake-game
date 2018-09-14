@@ -3,7 +3,7 @@
 npm install
 ```
 
-## How to start the APPs
+## How to start the APP
 ```
 npm start
 ```
@@ -15,7 +15,7 @@ Use the LEFT, UP, RIGHT, DOWN arrow keys to control the direction of the snake
 
 ## Rules
 1. Game will not stop till the snake is killed.
-2. Snake will be killed if it hits any side of the walls.
+2. Snake will be killed if it hits any side of the walls or its own body.
 3. Each time food is captured the snake grows and the score increases.
 
 

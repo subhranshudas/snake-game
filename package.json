@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/subhranshudas/snake.git"
+    "url": "https://github.com/subhranshudas/snake-game.git"
   },
   "scripts": {
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
